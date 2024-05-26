@@ -8,7 +8,7 @@ export default function App() {
     avatarSrc: "./nadeem.jpeg",
     fullName: "Mohammed-Nadeem Shaikh",
     description:
-      "Full-stack .net web developer. When not coding or preparing a course, I like to play board games, to cook (and eat), or to just enjoy the Portuguese sun at the beach.",
+      "Full-stack .net web developer. When not coding or learning front-end technologies, I like to play FIFA 2024 on PS4 with my children, to just enjoy walk on trails.",
     skillList: [
       { skillName: "HTML+CSS", icon: "💪", bgColor: "cyan" },
       { skillName: "JavaScript", icon: "💪", bgColor: "yellow" },
